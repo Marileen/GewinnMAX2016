@@ -87,7 +87,7 @@ module.exports = function(grunt) {
                     dest: 'release/',
                     ext: '.html'
                 }],
-                templateData: {},
+                templateData: 'dev/*.json',
                 partials: 'dev/partials/**/*.hbs'
             }
         }

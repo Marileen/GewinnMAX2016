@@ -1,0 +1,10 @@
+{
+    "page": {
+        "basePath": "../",
+        "title": "GewinnMAX - Unternehmensberatung",
+        "head": {
+            "description": "Unternehmensberatung für Private Haushalte",
+            "keywords": "privat geld anlegen finanzen haushalt"
+        }
+    }
+}
